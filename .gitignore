@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db
+*.db-*
+*.db.back*
+.pytest_cache/
+__pycache__/
+*.py[cod]
+frontend/dist/
+frontend/*.tsbuildinfo
+coverage/
+node_modules/
+dist/
+.DS_Store
+start.sh
